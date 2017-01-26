@@ -1,5 +1,5 @@
 approvers:
-  sig-cli-maintainers:
+- sig-cli-maintainers
 reviewers:
 - adohe
 - deads2k
