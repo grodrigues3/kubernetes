@@ -6,11 +6,13 @@ aliases:
     - fabianofranz
     - janetkuo
     - pwittrock
+    - grodrigues3
     - smarterclayton
   sig-cli:
     - adohe
     - deads2k
     - derekwaynecarr
+    - grodrigues3
     - dims
     - dshulyak
     - eparis
@@ -28,9 +30,11 @@ aliases:
     - fejta
     - ixdy
     - rmmh
+    - grodrigues3
     - spxtr
   sig-node-reviewers:
     - Random-Liu
+    - grodrigues3
     - dashpole
     - dchen1107
     - derekwaynecarr
