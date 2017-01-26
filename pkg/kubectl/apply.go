@@ -28,6 +28,7 @@ import (
 func GetOriginalConfiguration(mapping *meta.RESTMapping, obj runtime.Object) ([]byte, error) {
 	annots, err := mapping.MetadataAccessor.Annotations(obj)
 	if err != nil {
+		// this is a dumb change
 		return nil, err
 	}
 
