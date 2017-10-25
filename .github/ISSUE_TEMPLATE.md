@@ -5,11 +5,10 @@ If you're looking for help check [Stack Overflow](https://stackoverflow.com/ques
 
 **Is this a BUG REPORT or FEATURE REQUEST?**:
 
-> Uncomment only one, leave it on its own line: 
->
-> /kind bug
-> /kind feature
-
+<!--  Uncomment only one, leave it on its own line: 
+/kind bug
+/kind feature
+-- >
 
 **What happened**:
 
@@ -17,6 +16,7 @@ If you're looking for help check [Stack Overflow](https://stackoverflow.com/ques
 
 **How to reproduce it (as minimally and precisely as possible)**:
 
+**Which sig should own this?**:
 
 **Anything else we need to know?**:
 
